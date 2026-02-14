@@ -1,3 +1,4 @@
+console.log("KorriKarte geladen");
 $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
 
     const { lines: line, texts: text, mapOverlay } = MapSdk;
@@ -28,7 +29,7 @@ $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     addLine(439.5, 499.5, 319, 609, "#FF0000");
 
 
-    // Weißer Rahmen um Hauptblock
+    // WeiÃŸer Rahmen um Hauptblock
     [
 
         [439.5, 499.5, 342, 360],
@@ -96,7 +97,7 @@ $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     const entries = [
         [351, 491, "bayernt.ter"],
         [336, 481, "bayernt.ter"],
-        [351, 510, "Jägermeister"],
+        [351, 510, "JÃ¤germeister"],
         [420, 499, "tobiman26"],
         [365, 499, "robold"],
         [308, 422, "Woody"],
@@ -109,7 +110,7 @@ $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [308, 500, "Phil Losoph"],
         [308, 510, "mooncoon"],
         [308, 520, "Progon"],
-        [308, 530, "Gast/Mönch"],
+        [308, 530, "Gast/MÃ¶nch"],
         [308, 542, "charge"],
         [306, 553, "Gabagool"],
         [323, 568, "Andyisking"],
@@ -122,8 +123,8 @@ $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [380, 525, "Doberman"],
         [394, 518, "Karomce"],
         [407, 511, "Dimoret"],
-        [421, 490, "Gorzokderzerstörer"],
-        [386, 489, "Gorzokderzerstörer + keeproking 2-3 grids"],
+        [421, 490, "GorzokderzerstÃ¶rer"],
+        [386, 489, "GorzokderzerstÃ¶rer + keeproking 2-3 grids"],
         [409, 473, "MrcosmoOG"],
         [382, 481, "Cellenseres"],
         [382, 469, "DadeMurphy"],
@@ -152,4 +153,5 @@ $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     entries.forEach(e => addText(...e));
 
     mapOverlay.reload();
+
 });
