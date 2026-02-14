@@ -1,5 +1,6 @@
-
-$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
+var win = typeof unsafeWindow != 'undefined' ? unsafeWindow : window;
+win.$.ajaxSetup({ cache: true });
+win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
 
     const { lines: line, texts: text, mapOverlay } = MapSdk;
 
@@ -155,4 +156,5 @@ $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
