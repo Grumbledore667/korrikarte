@@ -136,7 +136,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [365, 407, "Doldi"],
         [348, 389, "Kardinal6 / Wolfshirn / Krieger3"],
         [326, 407, "Schalke1962 / lampl1 / Hermine-Granger"],
-        [326, 389, "xRume / DieGallier / xBlanusx"],
+        [326, 389, "DieGallier / xBlanusx"],
         [365, 420, "Tivanofaufuv Vex / moontech"],
         [282, 509, "???"],
         [335, 499, "Stromlan/Dexlogger"],
@@ -156,6 +156,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
