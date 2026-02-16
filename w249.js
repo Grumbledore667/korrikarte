@@ -134,8 +134,8 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [382, 440, "Bobs"],
         [365, 429, "Kalle"],
         [365, 407, "Doldi"],
-        [348, 389, "Kardinal6 / Wolfshirn / Krieger3"],
-        [326, 407, "Schalke1962 / lampl1 / Hermine-Granger"],
+        [348, 389, "Wolfshirn / Krieger3"],
+        [326, 407, "Schalke1962 / lampl1"],
         [326, 389, "DieGallier / xBlanusx"],
         [365, 420, "Tivanofaufuv Vex / moontech"],
         [282, 509, "???"],
@@ -143,10 +143,10 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [376, 568, "Levia"],
         [394, 563, "????"],
         [368, 405, "Kalle"],
-        [359, 406, "Zahl2"],
+        [359, 406, "Kardinal6"],
         [349, 407, "Zahl1"],
-        [340, 408, "Wing"],
-        [330, 408, "Wing"],
+        [340, 408, "MitronvonMandor"],
+        [330, 408, "Hermine-Granger"],
         [323, 409, "Wing"],
         [313, 410, "Wing"]
     ];
@@ -156,6 +156,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
