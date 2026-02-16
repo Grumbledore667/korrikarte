@@ -33,7 +33,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     // Weißer Rahmen um Hauptblock
     [
 
-        [439.5, 499.5, 342, 360],
+        [439.5, 499.5, 342, 360], // asdfgh
         [439.5, 499.5, 319, 609],
         [436, 494.5, 379.5, 494.5],
         [435, 504.5, 379.5, 504.5],
@@ -156,5 +156,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
