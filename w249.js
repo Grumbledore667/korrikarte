@@ -147,7 +147,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [349, 407, "moonTech"],
         [345, 413, "MitronvonMandor"],
         [330, 408, "Hermine-Granger"],
-        [323, 409, "DieGallier"],
+        [326, 413, "DieGallier"],
         [313, 410, "Wing"]
     ];
 
@@ -156,6 +156,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
