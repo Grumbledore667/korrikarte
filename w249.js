@@ -90,8 +90,10 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [293.5, 454.5, 333.5, 454.5],
         [289.5, 569.5, 319, 609],
         [289.5, 534.5, 289.5, 569.5],
-        [289.5, 504.5, 289.5, 524.5]
-    ].forEach(p => addLine(...p));
+        [289.5, 504.5, 289.5, 524.5],
+        [422,474.5,414.5,474.5], // Hermine
+        [414.5,474.5,414.5,463.75] // Hermine
+   ].forEach(p => addLine(...p));
 
 
     // ===== Text + Linien Liste =====
@@ -147,7 +149,8 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [345, 413, "MitronvonMandor"],
         [338, 415, "Hermine-Granger"],
         [326, 413, "DieGallier"],
-        [313, 410, "Schalke1962 / lampl1"]
+        [313, 410, "Schalke1962 / lampl1"],
+        [417,470,"Hermine"]
     ];
 
     entries.forEach(e => addText(...e));
@@ -155,6 +158,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
