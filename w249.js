@@ -149,7 +149,8 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [338, 415, "Hermine-Granger"],
         [326, 413, "DieGallier"],
         [313, 410, "Schalke1962 / lampl1"],
-        [417,470,"Hermine"]
+        [417,470,"Hermine"],
+        [293,468,"Alpha-Wolf"]
     ];
 
     entries.forEach(e => addText(...e));
@@ -157,6 +158,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
