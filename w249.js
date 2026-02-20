@@ -134,7 +134,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [382, 461, "Grimbalt"],
         [382, 449, "wotan"],
         [382, 440, "Bobs"],
-        [365, 429, "Kalle"],
         [365, 407, "Doldi"],
         [348, 389, "Wolfshirn / Krieger3"],
         [326, 389, "xBlanusx"],
@@ -158,6 +157,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
