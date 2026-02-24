@@ -103,7 +103,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [351, 491, "bayernt.ter"],
         [336, 481, "bayernt.ter"],
         [351, 510, "Jägermeister"],
-        [420, 499, "tobiman26"],
+        [420, 499, "moonTech"],
         [365, 499, "robold"],
         [308, 422, "Woody"],
         [308, 438, "Alpha"],
@@ -146,7 +146,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [394, 563, "????"],
         [368, 405, "Kalle"],
         [359, 406, "Kardinal6"],
-        [349, 407, "moonTech"],
+        [349, 407, "???"],
         [345, 413, "MitronvonMandor"],
         [338, 415, "Hermine-Granger"],
         [326, 413, "DieGallier"],
@@ -160,6 +160,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
