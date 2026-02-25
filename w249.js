@@ -147,7 +147,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [368, 405, "Kalle"],
         [359, 406, "Kardinal6"],
         [349, 407, "???"],
-        [345, 413, "MitronvonMandor"],
         [338, 415, "Hermine-Granger"],
         [326, 413, "DieGallier"],
         [313, 410, "Schalke1962 / lampl1"],
@@ -160,6 +159,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
