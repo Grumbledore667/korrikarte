@@ -103,7 +103,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [351, 491, "bayernt.ter"],
         [336, 481, "bayernt.ter"],
         [351, 510, "Jägermeister"],
-        [420, 499, "moonTech"],
+        [420, 499, "GorzockDerZerstörer"],
         [365, 499, "robold"],
         [308, 422, "Woody"],
         [308, 438, "Alpha"],
@@ -128,10 +128,10 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [380, 525, "Doberman"],
         [394, 518, "Karomce"],
         [407, 511, "Dimoret"],
-        [421, 490, "Gorzokderzerstörer"],
-        [386, 489, "Gorzokderzerstörer + keeproking 2-3 grids"],
+        [421, 490, "Cellenseres"],
+        [386, 489, "Cellenseres + keeproking 2-3 grids"],
         [409, 473, "MrcosmoOG"],
-        [382, 481, "Cellenseres"],
+        [382, 481, "moontech"],
         [382, 469, "DadeMurphy"],
         [382, 461, "Grimbalt"],
         [382, 449, "wotan"],
@@ -159,6 +159,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
