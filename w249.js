@@ -130,7 +130,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [407, 511, "Dimoret"],
         [421, 490, "Cellenseres"],
         [386, 489, "Cellenseres + keeproking 2-3 grids"],
-        [409, 473, "MrcosmoOG"],
+        [409, 473, "MrcosmoOG / DieGallier"],
         [382, 481, "moontech"],
         [382, 469, "DadeMurphy"],
         [382, 461, "Grimbalt"],
@@ -148,7 +148,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [359, 406, "Kardinal6"],
         [349, 407, "Schalke1962"],
         [338, 415, "Hermine-Granger"],
-        [326, 413, "DieGallier"],
+        [326, 413, "DieGallier/MrCosmoOG"],
         [313, 410, "lampl1"],
         [417,470,"Hermine"],
         [293,468,"Alpha-Wolf"]
@@ -159,6 +159,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
