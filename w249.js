@@ -91,8 +91,8 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [289.5, 569.5, 319, 609],
         [289.5, 534.5, 289.5, 569.5],
         [289.5, 504.5, 289.5, 524.5],
-        [422,474.5,414.5,474.5], // Hermine
-        [414.5,474.5,414.5,463.75], // Hermine
+        [422,474.5,414.5,474.5], // hawaistyler
+        [414.5,474.5,414.5,463.75], // hawaistyler
         [299.5,464.5,299.5,474.5] //Alpha-Wolf an willy korridor
         
    ].forEach(p => addLine(...p));
@@ -150,7 +150,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [338, 415, "Hermine-Granger"],
         [326, 413, "DieGallier/MrCosmoOG"],
         [313, 410, "lampl1"],
-        [417,470,"???"],
+        [417,470,"hawaistyler"],
         [293,468,"Alpha-Wolf"]
     ];
 
@@ -159,6 +159,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     mapOverlay.reload();
 
 });
+
 
 
 
