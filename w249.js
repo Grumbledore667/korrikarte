@@ -15,15 +15,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
     const addText = (x, y, t) =>
         text.push({ x, y, text: t, color: "#F7FF00", font: "35px bold Arial", drawOnMap: true, drawOnMini: true });
 
-    // ===== AdelsGrenze Zack =====
-    [
-        [400, 600, 400, 645],
-        [384, 416, 369, 430],
-        [369, 430, 365, 425],
-        [365, 425, 360, 425],
-        [360, 425, 360, 450],
-        [360, 450, 294, 450]
-    ].forEach(p => addLine(...p, "#F0C800"));
 
     // ===== Korri Karte (rot) =====
     addLine(439.5, 499.5, 342, 360, "#FF0000");
