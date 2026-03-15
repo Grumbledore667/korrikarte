@@ -98,7 +98,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [365, 499, "robold"],
         [308, 422, ".antireaper"],
         [308, 438, "Alpha"],
-        [308, 449, " Aragorn1/ Hawayistyler"],
+        [308, 449, "Hawayistyler"],
         [308, 458, "Ares01/Haxen2912"],
         [308, 469, "prinzwilli/Oblivion-Pro"],
         [308, 479, "kattaklysm"],
