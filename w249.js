@@ -142,7 +142,8 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [326, 413, "DieGallier/MrCosmoOG"],
         [313, 410, "lampl1"],
         [417,470,"hawaistyler"],
-        [293,468,"Alpha-Wolf"]
+        [293,468,"Alpha-Wolf"],
+        [343,408,"woody"]
     ];
 
     entries.forEach(e => addText(...e));
