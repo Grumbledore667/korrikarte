@@ -127,7 +127,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [382, 461, "Grimbalt"],
         [382, 449, "wotan"],
         [382, 440, "Bobs"],
-        [365, 407, "Doldi"],
         [348, 389, "Wolfshirn"],
         [326, 389, "xBlanusx"],
         [365, 420, "Tivanofaufuv Vex"],
