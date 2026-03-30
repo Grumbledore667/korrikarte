@@ -91,7 +91,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
 
     // ===== Text + Linien Liste =====
     const entries = [
-        [351, 491, "adrenalin1"],
+        [351, 491, "???"],
         [336, 481, "bayernt.ter"],
         [351, 510, "Jägermeister"],
         [420, 499, "GorzockDerZerstörer"],
@@ -101,7 +101,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [308, 449, "Hawayistyler"],
         [308, 458, "Ares01/Haxen2912"],
         [308, 469, "prinzwilli/Oblivion-Pro"],
-        [308, 479, "kattaklysm"],
+        [308, 479, "adrenalin1"],
         [308, 491, "Dexlogger"],
         [308, 500, "Phil Losoph"],
         [308, 510, "mooncoon"],
