@@ -91,7 +91,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
 
     // ===== Text + Linien Liste =====
     const entries = [
-        [351, 491, "bayernt.ter"],
+        [351, 491, "adrenalin1"],
         [336, 481, "bayernt.ter"],
         [351, 510, "Jägermeister"],
         [420, 499, "GorzockDerZerstörer"],
