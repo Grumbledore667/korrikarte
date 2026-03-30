@@ -91,8 +91,8 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
 
     // ===== Text + Linien Liste =====
     const entries = [
-        [351, 491, "???"],
-        [336, 481, "!!!"],
+        [351, 491, "Kattaklysm"],
+        [336, 481, "Kattaklysm"],
         [351, 510, "Jägermeister"],
         [420, 499, "GorzockDerZerstörer"],
         [365, 499, "robold"],
