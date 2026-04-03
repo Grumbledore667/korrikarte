@@ -128,7 +128,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [382, 449, "wotan"],
         [382, 440, "Doldi"],
         [348, 389, "Wolfshirn"],
-        [365, 420, "Tivanofaufuv Vex"],
         [282, 509, "???"],
         [335, 499, "Stromlan"],
         [376, 568, "Levia"],
