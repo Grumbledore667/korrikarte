@@ -134,7 +134,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [368, 405, "Kalle"],
         [359, 406, "Wolfshirn"],
         [349, 407, "Schalke1962"],
-        [326, 413, "DieGallier/MrCosmoOG"],
+        [326, 413, "DieGallier"],
         [313, 410, "lampl1"],
         [417, 470, "hawaistyler"],
         [293, 468, "Alpha-Wolf"],
