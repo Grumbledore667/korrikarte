@@ -134,13 +134,13 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [376, 568, "Levia"],
         [394, 563, "????"],
         [368, 405, "Kalle"],
-        [359, 406, "Kardinal6"],
+        [359, 406, "OOOO"],
         [349, 407, "Schalke1962"],
         [326, 413, "DieGallier/MrCosmoOG"],
         [313, 410, "lampl1"],
         [417, 470, "hawaistyler"],
         [293, 468, "Alpha-Wolf"],
-        [343, 408, "woody"],
+        [343, 408, "Kardinal6"],
         [338, 415, "Doldi"]
     ];
 
