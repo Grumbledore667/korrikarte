@@ -139,7 +139,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [417, 470, "hawaistyler"],
         [293, 468, "Alpha-Wolf"],
         [343, 408, "Kardinal6"],
-        [338, 415, "Doldi"]
     ];
 
     entries.forEach(e => addText(...e));
