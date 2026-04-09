@@ -134,7 +134,6 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [354, 411, "Schalke1962"],
         [326, 413, "DieGallier"],
         [313, 410, "lampl1"],
-        [417, 470, "hawaistyler"],
         [293, 468, "Alpha-Wolf"],
         [339, 418, "WING"],
         [343, 408, "Kardinal6"]
