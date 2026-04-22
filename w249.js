@@ -94,7 +94,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [351, 510, "Jägermeister"],
         [420, 499, "GorzockDerZerstörer"],
         [365, 499, "robold"],
-        [308, 422, "Antireaper"],
+        [308, 422, "GorzockDerZerstörer"],
         [308, 438, "Alpha"],
         [308, 449, "Hawayistyler"],
         [308, 458, "Ares01"],
