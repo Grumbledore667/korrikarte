@@ -98,7 +98,7 @@ win.$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(() => {
         [308, 438, "Alpha"],
         [308, 449, "Hawayistyler"],
         [308, 458, "Ares01"],
-        [308, 469, "prinzwilli/Oblivion-Pro"],
+        [308, 469, "prinzwilli/needCash"],
         [308, 479, "adrenalin1 / NeedCash"],
         [308, 491, "Dexlogger"],
         [308, 500, "Phil Losoph"],
